@@ -1,4 +1,4 @@
-# To run sdk
+# To run examples with sdk
 
 1. npm install -g decentraland
 

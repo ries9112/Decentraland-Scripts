@@ -5,3 +5,5 @@
 2. dcl init
 
 3. dcl start
+
+4. modify `src/game.ts` with script
